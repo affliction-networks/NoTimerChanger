@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoTimerChanger", "NoTimerChanger\NoTimerChanger.csproj", "{0785CE99-DF89-4A30-8E96-83554BD034E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0785CE99-DF89-4A30-8E96-83554BD034E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0785CE99-DF89-4A30-8E96-83554BD034E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0785CE99-DF89-4A30-8E96-83554BD034E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0785CE99-DF89-4A30-8E96-83554BD034E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F238B5E-AD62-4F28-B9A1-D0971DDD6091}
+	EndGlobalSection
+EndGlobal
